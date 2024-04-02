@@ -8,3 +8,11 @@ Guide how to conncet : How to play Yoosee camera RTSP stream?
 
 
 https://www.youtube.com/watch?v=bHn_n3CLQOI&ab_channel=ArnaldoVianaJr
+
+https://www.youtube.com/watch?v=ziNFn54Iy7I&ab_channel=CodePublic
+
+Cài đặt:
+  1. brew update
+  2. brew upgrade
+  3. brew install ffmpeg
+  4. ffmpeg
