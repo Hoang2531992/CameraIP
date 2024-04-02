@@ -1,3 +1,4 @@
+# Camera Yoosee control: https://github.com/wredan/yoosee_camera_control_api
 # CameraIP: Tải app VLC media để test link stream.
 Guide how to conncet : How to play Yoosee camera RTSP stream?
 1. Go to your smartphone to enable "RTSP", and create a new password.
@@ -16,3 +17,5 @@ Cài đặt:
   2. brew upgrade
   3. brew install ffmpeg
   4. ffmpeg
+https://phoenixnap.com/kb/ffmpeg-mac
+https://stackoverflow.com/questions/43743592/getting-rtsp-stream-with-opencv-and-python
