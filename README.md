@@ -1,4 +1,4 @@
-# CameraIP
+# CameraIP: Tải app VLC media để test link stream.
 Guide how to conncet : How to play Yoosee camera RTSP stream?
 1. Go to your smartphone to enable "RTSP", and create a new password.
 2. RTSP://admin:Test1234@192.168.1.38:554/onvif1       # Change passwword trong App điện thoại khi connect RTSP  , User vẫn giữ nguyên admin
